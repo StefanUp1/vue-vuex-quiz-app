@@ -19,6 +19,15 @@
 </script>
 
 <style scoped>
+    h1 {
+        font-weight: 300;
+        margin: 0px;
+        padding: 10px;
+        font-size: 20px;
+        background-color: #444;
+        color: #fff;
+    }
+    
     #app {
         font-size: 20px;
         font-family: sans-serif;
